@@ -1,11 +1,10 @@
 # Open Source Audit: Linux Kernel
 
-**Student Name:** Yashodhara Singh  
-**Roll Number:** 24BCE10696  
-**Course:** Open Source Software (Linux Administration)  
-**Chosen Software:** Linux Kernel  
+Student Name: Yashodhara Singh  
+Roll Number:  24BCE10696  
+Course: Open Source Software (Linux Administration)  
+Chosen Software: Linux Kernel  
 
----
 
 ## Project Overview
 
@@ -55,21 +54,21 @@ cd oss-audit-24BCE10696
 # Make scripts executable
 chmod +x scripts/*.sh
 
-Running Scripts
+# Running Scripts
 
 Run these commands in WSL command prompts:
-# Script 1: System Identity Report
+ # Script 1: System Identity Report
 ./scripts/system_report.sh
 
-# Script 2: Kernel Package Inspector
+ # Script 2: Kernel Package Inspector
 ./scripts/kernel_inspector.sh
 
-# Script 3: Kernel Directory Auditor (requires sudo)
+ # Script 3: Kernel Directory Auditor (requires sudo)
 sudo ./scripts/kernel_audit.sh
 
-# Script 4: Kernel Log Analyzer (requires sudo)
+ # Script 4: Kernel Log Analyzer (requires sudo)
 sudo ./scripts/kernel_log_analyzer.sh error
 sudo ./scripts/kernel_log_analyzer.sh warning
 
-# Script 5: Manifesto Generator (interactive)
+ # Script 5: Manifesto Generator (interactive)
 ./scripts/kernel_manifesto.sh
