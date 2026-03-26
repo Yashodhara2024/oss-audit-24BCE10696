@@ -14,7 +14,7 @@
 This project is a comprehensive philosophical and technical audit of the **Linux Kernel**, one of the most influential open-source projects in history. The Linux Kernel is the core of the Linux operating system, powering everything from smartphones and laptops to supercomputers and cloud infrastructure.
 
 
-## echnical Environment
+## Technical Environment
 
 | Component | Details |
 |-----------|---------|
